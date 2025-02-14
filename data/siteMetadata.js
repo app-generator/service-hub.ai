@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Service HUB',
   author: 'RoSoft',
   headerTitle: 'Service HUB',
-  description: 'All about organic food, trends and studies.',
+  description: 'All about APIs, Public and Private Services.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.service-hub.ai',
